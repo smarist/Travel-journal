@@ -1,0 +1,45 @@
+body{
+  margin: 0 auto;
+  width: 550px;
+  
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  width: 550px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+  background: #F55A5A;
+}
+
+nav h1{
+  flex-basis: 20%;
+  text-align: left;
+  width: 109px;
+  height: 16px;
+  margin-top: 17px;
+  margin-left: -150px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  color: #FFFFFF;
+
+}
+
+nav img{
+  flex-basis: 5%;
+  width: 22px;
+  height: 22px;
+  margin: 11px -250px 0 6px;
+  /*
+  left: calc(50% - 24px/2 - 50px);
+  top: calc(50% - 24px/2 - 324px);
+  border: 2px solid red;
+ background: #DADADA;*/
+}
