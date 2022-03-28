@@ -10,6 +10,7 @@ export default function Nav(){
             <img src={NavImg}></img>
             <h1>my travel journal</h1>
         </nav>
+        
     )
    
 }
