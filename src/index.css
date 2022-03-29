@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+
 body{
   margin: 0 auto;
   width: 550px;
@@ -42,4 +47,69 @@ nav img{
   top: calc(50% - 24px/2 - 324px);
   border: 2px solid red;
  background: #DADADA;*/
+}
+section{
+
+}
+article {
+  display: flex;
+
+}
+
+.image{
+  /*position: absolute; */
+  width: 125px;
+  height: 220px;
+  border-radius: 5px;
+  margin: 35px 15px 35px 30px;
+  flex-basis: 30%;
+}
+
+.img-text{
+  flex-basis: 70%;
+  height: 220px;
+  margin: 35px 2px;
+  padding: 0px 2px 0px 0px;
+  border: 2px solid red;
+
+}
+
+.location-img{
+  width: 20px;
+  height: 20px;
+  margin-top: 16px;
+  margin-bottom: -3px;
+}
+
+.map{
+  color: #918E9B;
+  padding-left: 5px;
+  font-weight: 400;
+  size: 10.24px;
+  line-height: 12.39px;
+}
+
+.title{
+  margin-top: 2px;
+  margin-bottom: -0.1px;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30.26px;
+  color: #2B283A;
+  padding: 4px 0px 4px 0px;
+}
+
+.start, .end {
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12.39px;
+  color: #2B283A;
+}
+
+.description{
+  margin: 0;
+  margin-top: 7px;
+  font-weight: 400;
+  size: 15.36px;
+  color: #2B283A;
 }

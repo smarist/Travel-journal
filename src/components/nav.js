@@ -4,6 +4,7 @@ import NavImg from "../images/nav-image.png"
 
 
 
+
 export default function Nav(){
     return (
         <nav>

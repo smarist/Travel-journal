@@ -1,7 +1,7 @@
 export default [
     {
         title: "Santorini Island",
-        location: "Greece",
+        location: "GREECE",
         googleMapsUrl: "https://goo.gl/maps/Gb79ZMKi95FeZxs8A",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
@@ -11,7 +11,7 @@ export default [
 
     {
         title: "Maldives Island",
-        location: "Maldives",
+        location: "MALDIVES",
         googleMapsUrl: "https://goo.gl/maps/rg69U43nze649vzr8",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
@@ -21,7 +21,7 @@ export default [
 
     {
         title: "Paris Eiffel Tower",
-        location: "Greece",
+        location: "FRANCE",
         googleMapsUrl: "https://goo.gl/maps/1i9kXyVH5SZJewkn8",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
